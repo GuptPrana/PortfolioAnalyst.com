@@ -8,6 +8,7 @@ Project aims to provide central platform to host stock related information from 
 2. Back End (APIs, Selenium)
 3. Recommender System - Stocks
 4. Recommender System - Information Source
-5. Porfolio Optimizer
+5. NLP Sentiment Analysis on Information
+6. Porfolio Optimizer
 
 
