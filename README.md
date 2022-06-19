@@ -3,11 +3,11 @@
 ## PortfolioAnalyst.com
 Project aims to provide central platform to host stock related information from various websites on single site
 
-## Project Flow: 
-Front End
-Back End (APIs, Selenium)
-Recommender System - Stocks
-Recommender System - Information Source
-Porfolio Optimizer
+### Project Flow: 
+1. Front End
+2. Back End (APIs, Selenium)
+3. Recommender System - Stocks
+4. Recommender System - Information Source
+5. Porfolio Optimizer
 
 
